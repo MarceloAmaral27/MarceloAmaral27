@@ -1,6 +1,6 @@
 ## Olá, eu sou o Marcelo Henrique 👋
 
-<p>Seja bem vindo! </br>
+<p>Seja bem vindo! ☕</br>
 Eu me chamo Marcelo, sou um estudante de ADS.<br>
 <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/> <b>Rio de Janeiro, Brazil</b>.
 <br>
