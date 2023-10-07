@@ -9,7 +9,7 @@ Eu me chamo Marcelo, sou um estudante de ADS.<br>
   ## Sobre mim
   - Tenho 18 anos.
   - Curso Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Também faço outros cursos em paralelo.
-  - Atualmente estou aprendendo Python e Django, mas em breve pretendo aprender Java, também.
+  - Atualmente estou aprendendo Python e Django, mas em breve pretendo aprender outras linguagens, também.
   - Entusiasta da programação em busca de novos desafios e aprendizado contínuo.
 
 <div style="display: inline_block"><br>
